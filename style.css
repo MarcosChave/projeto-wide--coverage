@@ -20,6 +20,10 @@ a {
   color: #17233d;
 }
 
+a:hover {
+  opacity: 0.8;
+}
+
 .bt1 {
   height: 51px;
   width: 124px;
@@ -86,4 +90,7 @@ p {
   color: #6fbf44;
   border: none;
   background: transparent;
+}
+.bt2:hover {
+  opacity: 0.8;
 }
